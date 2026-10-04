@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#d8d8d8"/>
+  <rect x="140" y="160" width="800" height="760" rx="28" fill="#ffffff"/>
+  <text x="200" y="250" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#1e3a5f">Vernx</text>
+  <text x="200" y="330" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#1e3a5f">Before day one on site</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#1e3a5f">
+    <rect x="200" y="390" width="36" height="36" rx="6" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <path d="M208 408 l8 8 16-16" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <text x="260" y="418">Who is starting?</text>
+    <rect x="200" y="480" width="36" height="36" rx="6" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <path d="M208 498 l8 8 16-16" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <text x="260" y="508">What is the contract?</text>
+    <rect x="200" y="570" width="36" height="36" rx="6" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <path d="M208 588 l8 8 16-16" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <text x="260" y="598">Who does the check?</text>
+    <rect x="200" y="660" width="36" height="36" rx="6" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <path d="M208 678 l8 8 16-16" fill="none" stroke="#1e3a5f" stroke-width="3"/>
+    <text x="260" y="688">Where is the record?</text>
+  </g>
+  <line x1="200" y1="760" x2="880" y2="760" stroke="#cfcfcf" stroke-width="2"/>
+  <text x="200" y="810" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#8a8a8a">Right to work updates from 1 Oct 2026 · Not legal advice</text>
+</svg>
